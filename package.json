@@ -1,0 +1,24 @@
+{
+  "name": "discord-js-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i7xx7/DiscordJSBase.git"
+  },
+  "author": "Yashiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i7xx7/DiscordJSBase/issues"
+  },
+  "homepage": "https://github.com/i7xx7/DiscordJSBase#readme",
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.4.5",
+    "moongose": "^1.0.0"
+  }
+}
